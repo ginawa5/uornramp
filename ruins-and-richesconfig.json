@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "Port",
+        "Category": "Server Settings",
+        "Description": "Server Port",
+        "Keywords": "Port",
+        "FieldName": "serverport",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "serverport",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "2593",
+        "EnumValues": {}
+    }
+]
